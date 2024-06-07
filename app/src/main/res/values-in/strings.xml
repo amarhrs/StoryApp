@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="title_menu_1">Selamat Datang!</string>
+    <string name="title_menu_2">Jelajahi Berbagai Genre Cerita</string>
+    <string name="title_menu_3">Pengalaman Membaca Interaktif</string>
+    <string name="title_menu_4">Temukan Cerita Baru Setiap Hari</string>
+    <string name="desc_menu_1">Selamat datang di aplikasi cerita kami! Temukan dunia cerita menarik dan inspiratif yang tak ada habisnya. Mari kita mulai petualangan membaca kita bersama!</string>
+    <string name="desc_menu_2">Di sini, kamu bisa menjelajahi berbagai genre cerita, mulai dari petualangan menegangkan hingga romansa yang mengharukan. Pilih salah satu yang sesuai dengan selera Anda dan temukan cerita yang akan memikat hati Anda.</string>
+    <string name="desc_menu_3">Dapatkan pengalaman membaca yang lebih interaktif dengan fitur khusus kami, seperti berbagi cerita dengan teman. Nikmati setiap momen membaca dengan nyaman dan bebas.</string>
+    <string name="desc_menu_4">Jangan ragu untuk menjelajahi fitur tambahan kami dan jangan lewatkan cerita terbaru setiap hari. Kami harap Anda menikmati pengalaman membaca yang menyenangkan dan menginspirasi di aplikasi kami!</string>
+    <string name="learn_now">Mulai sekarang</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ingin mempelajari ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Hanya Cerita Dicoding!</string>
+    <string name="title_welcome_page">Selamat datang di Kisah Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data Anda di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan data Anda terlebih dahulu</string>
+    <string name="title_login_page">Siap menjelajahi ceritanya?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Bercerita di Dicoding.</string>
+    <string name="logout">Keluar</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_password">password kurang dari 8 karakter</string>
+    <string name="success">Berhasil</string>
+    <string name="dialog_continue">Lanjutkan</string>
+    <string name="error">Kesalahan</string>
+    <string name="input_email">Email Anda belum terisi</string>
+    <string name="input_password">Kata sandi Anda belum diisi</string>
+    <string name="welcome_back">Selamat Datang kembali</string>
+    <string name="description">Deskripsi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="are_your_sure">Apa kamu yakin?</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Mengunggah</string>
+
+    <string name="map">Peta</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="add_location">Tambah Lokasi</string>
+
+
+</resources>

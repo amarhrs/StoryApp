@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="title_menu_1">Welcome!</string>
+    <string name="title_menu_2">Explore Various Story Genres</string>
+    <string name="title_menu_3">Interactive Reading Experience</string>
+    <string name="title_menu_4">Discover New Stories Every Day</string>
+    <string name="desc_menu_1">Welcome to our story app! Discover an endless world of interesting and inspiring stories. Let\'s start our reading adventure together!</string>
+    <string name="desc_menu_2">Here, you can explore various story genres, from tense adventures to heartwarming romances. Choose the one that suits your taste and discover the story that will captivate your heart.</string>
+    <string name="desc_menu_3">Get a more interactive reading experience with our special features, such as sharing stories with friends. Enjoy every moment of reading comfortably and freely.</string>
+    <string name="desc_menu_4">Feel free to explore our additional features and don\'t miss the latest stories every day. We hope you enjoy a fun and inspiring reading experience on our app!</string>
+    <string name="learn_now">Start Now</string>
+
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to learn knowledge about Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just Dicoding Story!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Ready to explore the story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy Storytelling at Dicoding.</string>
+    <string name="logout">Logout</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Pass Less Than 8 Char</string>
+    <string name="success">Success</string>
+    <string name="dialog_continue">Continue</string>
+    <string name="error">Error</string>
+    <string name="input_email">Your email has not been filled in</string>
+    <string name="input_password">Your password has not been filled in</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="description">Description</string>
+    <string name="setting">Setting</string>
+    <string name="are_your_sure">Are you sure?</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+
+    <string name="map">Map</string>
+    <string name="retry">Retry</string>
+    <string name="add_location">Add Location</string>
+
+</resources>
